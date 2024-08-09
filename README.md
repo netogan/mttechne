@@ -2,7 +2,7 @@
 
 Document centralizing all challenge information.
 
-## Architectural design
+## Solution design
 ![design-drwaio](https://raw.githubusercontent.com/netogan/mttechne/e2f1143e9857cb361ef65579eda1dbc4403e20c7/resources/fluxo-de-caixa.png)
 
 ## Modules
