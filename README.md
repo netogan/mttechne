@@ -7,7 +7,7 @@ Document centralizing all challenge information.
 
 ## Modules
 - [mttechne-cashflow-api](https://github.com/netogan/mttechne-cash-flow-api) - Responsible for managing cash flow.
-- [mttechne-consolidation-api](https://github.com/netogan/mttechne-cash-flow-api) - Responsible for processing the consolidation generating a report.
+- [mttechne-consolidation-api](https://github.com/netogan/mttechne-consolidation-api) - Responsible for processing the consolidation generating a report.
 
 ## Patterns 
 - Separation into logical layers (controller, domain, data, repository, integrations).
