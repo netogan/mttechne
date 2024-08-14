@@ -6,8 +6,8 @@ Document centralizing all challenge information.
 ![design-drwaio](https://raw.githubusercontent.com/netogan/mttechne/e2f1143e9857cb361ef65579eda1dbc4403e20c7/resources/fluxo-de-caixa.png)
 
 ## Modules
-- [mttechne-cashflow-api](https://github.com/netogan/mttechne-cash-flow-api) - Responsible for managing cash flow.
-- [mttechne-consolidation-api](https://github.com/netogan/mttechne-consolidation-api) - Responsible for processing the consolidation generating a report.
+- [mttechne-cashflow-api](https://github.com/netogan/cash-flow-api) - Responsible for managing cash flow.
+- [mttechne-consolidation-api](https://github.com/netogan/consolidation-api) - Responsible for processing the consolidation generating a report.
 
 ## Patterns 
 - Separation into logical layers (controller, domain, data, repository, integrations).
